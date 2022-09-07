@@ -1,4 +1,3 @@
 good morning sunshine
-
-git add. then commit
-
+i got up today, take care
+git add . then commit
