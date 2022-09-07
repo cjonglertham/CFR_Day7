@@ -1,3 +1,3 @@
 good morning sunshine
 i got up today, take care
-git commit. then push
+git add. then commit
