@@ -1,5 +1,2 @@
 good morning sunshine
 i got up today, take care
-git add. then commit
-
-to branch
